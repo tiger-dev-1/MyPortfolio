@@ -5,7 +5,7 @@ import { ScreenProps } from '../../App';
 
 const COLORS = {
   BACKGROUND: '#FFFFFF',
-  PRIMARY: '#330066', // Roxo Escuro
+  PRIMARY: '#330066', // Dark Purple
 };
 
 export default function HomeScreen({ navigation }: ScreenProps<'Home'>) {

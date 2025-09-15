@@ -6,7 +6,7 @@ import { ScreenProps } from '../../App';
 
 const COLORS = {
   BACKGROUND: '#FFFFFF',
-  PRIMARY: '#330066', // Roxo Escuro
+  PRIMARY: '#330066', // Dark Purple
   TEXT: '#000000',
 };
 
